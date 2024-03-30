@@ -1,1 +1,1 @@
-pyinstaller main.py --noconsole --onefile
+pyinstaller a_Cohere_conversation.py --noconsole --onefile
