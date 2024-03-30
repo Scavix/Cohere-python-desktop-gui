@@ -1,0 +1,4 @@
+cryptography==42.0.5
+PySimpleGUI==5.0.3
+PySimpleGUI==5.0.3
+Requests==2.31.0
