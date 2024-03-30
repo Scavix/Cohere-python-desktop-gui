@@ -37,7 +37,7 @@ python main.py
 
 ## GUI Screenshot
 <p align="center">
-    <img src="https://github.com/Scavix/Cohere-python-desktop-gui/blob/main/GUI.PNG" />
+    <img src="https://github.com/Scavix/Cohere-python-desktop-gui/blob/main/Capture.PNG" />
 </p>
 
 ## License
